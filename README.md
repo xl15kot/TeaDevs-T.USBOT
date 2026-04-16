@@ -41,5 +41,5 @@ Windows -
 1.Установить Python
 2.Скачать архив
 3.Перейдите в директорию cd путь
-4.pip install telethon gtts psutil pillow requests
+4.pip install -r requerimients.txt
 5.Запуск python main.py
