@@ -4,9 +4,6 @@
 Telegram UserBot with GUI. Modular commands.
 
 ## Features
-
-- 280+ commands
-- 6 themes
 - 2 languages (RU/EN)
 - Modular system (You can delete any team, edit, create your own)
 
