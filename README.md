@@ -1,7 +1,7 @@
 # T.UserBot Reborn
 
 # En
-Telegram UserBot with GUI. Modular commands, economy, games.
+Telegram UserBot with GUI. Modular commands.
 
 ## Features
 
