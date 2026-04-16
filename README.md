@@ -18,7 +18,7 @@ Windows -
 1.Install Python 
 2. Download the archive 
 3.Go to the cd path directory 
-4.pip install telethon gtts psutil pillow requests 
+4.pip install -r requerimients.txt 
 5. Running python main.py
 
 # Ru
