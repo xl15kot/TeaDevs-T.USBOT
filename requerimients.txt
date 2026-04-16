@@ -1,0 +1,1 @@
+telethon gtts psutil pillow requests
