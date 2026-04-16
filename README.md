@@ -21,6 +21,7 @@ Windows -
 4.pip install -r requerimients.txt 
 5. Running python main.py
 
+Developers: Avebas: https://t.me/avebas, LinuxMintReal (without social networks)
 # Ru
 # T.UserBot Reborn
 
@@ -43,3 +44,5 @@ Windows -
 3.Перейдите в директорию cd путь
 4.pip install -r requerimients.txt
 5.Запуск python main.py
+
+Разработчики: Avebas: https://t.me/avebas, LinuxMintReal (без социальных сетей)
