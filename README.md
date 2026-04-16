@@ -1,5 +1,5 @@
-# T.UserBot Reborn
-
+# T.UserBot Reborn 
+# Attention: the project is in beta / Внимание: проект находится в бета-версии
 # En
 Telegram UserBot with GUI. Modular commands.
 
