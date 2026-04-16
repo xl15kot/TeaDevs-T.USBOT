@@ -634,7 +634,7 @@ class TUserBotGUI:
         text.configure(state="disabled")
         link_frame = Frame(frame, bg=THEME["bg"])
         link_frame.pack(pady=10)
-        Label(link_frame, text="GitHub: github.com/TeaDevs", bg=THEME["bg"], fg=THEME["accent"], cursor="hand2").pack()
+        Label(link_frame, text="GitHub: github.com/xl15kot/TeaDevs-T.USBOT", bg=THEME["bg"], fg=THEME["accent"], cursor="hand2").pack()
     def _export_logs(self):
         from tkinter import filedialog
         file_path = filedialog.asksaveasfilename(defaultextension=".txt", filetypes=[("Text files", "*.txt")])
