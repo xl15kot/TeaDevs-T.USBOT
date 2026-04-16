@@ -35,7 +35,7 @@ Linux -
 1.Установить Python
 2.Скачать Архив 
 3. cd /к директории/
-4.python -m pip install telethon gtts psutil pillow requests --break-system-packages
+4.python -m pip install -r requerimients.txt --break-system-packages
 5.Запуск python main.py
 Windows -
 1.Установить Python
